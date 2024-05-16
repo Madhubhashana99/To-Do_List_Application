@@ -1,0 +1,4 @@
+input:checked+li {
+    text-decoration: line-through;
+    text-decoration-color: #A683E3;
+  }
